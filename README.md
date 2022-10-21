@@ -1,5 +1,5 @@
 # Login_Windown
-Janela de login com Python, usando a biblioteca PySimpleGUI
+<h3>Login screen in Python, using the library PySimpleGUI</h3>
 <br>
 <h1>Print da tela</h1>
 <br>
